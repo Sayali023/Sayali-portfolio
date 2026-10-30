@@ -1,0 +1,9 @@
+{
+  "name": "sayali-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sayali Pawar developer portfolio (static site, no build step)",
+  "scripts": {
+    "start": "npx serve . -l 3000"
+  }
+}
